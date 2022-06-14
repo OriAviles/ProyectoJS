@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: #f8efef;
+  }
+  
+  h1{
+    text-align: center;
+    font-family: cursive;
+    color:rgba(146, 15, 124, 0.808);
+  }
+  
+  #productos{
+    
+  }
+
+  
+  #footer {
+    height: 200px;
+    width: auto;
+    padding-top: 40px;
+    color: rgb(231, 38, 208);
+    align-items: center;
+    text-align: center;
+    
+  }
+  
+  .sociales{  
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    margin: 29px;
+    }
+
+    .card-body{
+      text-align: center;
+      font-size: 1rem;
+      
+
+    }
+
+
+    .form{
+      padding: 20px;
+
+    }
+

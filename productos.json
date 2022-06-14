@@ -1,0 +1,54 @@
+[
+    {
+        "nombre": "Pop It",
+        "precio": 195,
+        "id": 1,
+        "imagen": "./multimedia/popit.jpg"
+    },
+    {
+        "nombre": "Spinner",
+        "precio": 80,
+        "id": 2,
+        "imagen": "./multimedia/spinner.jpg"
+    },
+    {
+        "nombre": "Slime",
+        "precio": 120,
+        "id": 3,
+        "imagen": "./multimedia/slime.jpg"
+    },
+    {
+        "nombre": "Squishy",
+        "precio": 245,
+        "id": 4,
+        "imagen": "./multimedia/squishy.jpg"
+    }
+    ,
+    {
+        "nombre": "Pop Tube",
+        "precio": 365,
+        "id": 5,
+        "imagen": "./multimedia/popTube.jpg"
+    }
+    ,
+    {
+        "nombre": "Tangle",
+        "precio": 245,
+        "id": 6,
+        "imagen": "./multimedia/tangle.jpg"
+    }
+    ,
+    {
+        "nombre": "Infinity Cube",
+        "precio": 245,
+        "id": 7,
+        "imagen": "./multimedia/infinity.jpg"
+    }
+    ,
+    {
+        "nombre": "Finger Pop",
+        "precio": 245,
+        "id": 8,
+        "imagen": "./multimedia/fingers.jpg"
+    }
+]
